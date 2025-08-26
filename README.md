@@ -107,7 +107,7 @@ The project was executed in two phases:
 
 ## 🔗 References
 
-* Upstream PR discussion: [smartmontools PR #378](https://github.com/smartmontools/smartmontools/pull/378)
+* Upstream PR discussion(WIP): [smartmontools PR #378](https://github.com/smartmontools/smartmontools/pull/378)
 * Project idea: Ceph GSoC 2025 – Smartmontools Enhancements
 
 ---
@@ -117,9 +117,3 @@ The project was executed in two phases:
 Huge thanks to my mentors and the Ceph community for their continuous guidance, reviews, and technical support.
 
 ---
-
-👉 You can just push this repo with your PDFs + build zip + README.md, and submit the repo link to GSoC as your **final public work reference**.
-
----
-
-Do you want me to also **write the ATTRIBUTE\_LABEL\_STANDARD.md file separately** (as mentioned in Phase 2) so you can include it in the repo alongside README?

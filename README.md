@@ -1,6 +1,6 @@
 # GSoC 2025 – Normalization and Interpretation Enhancement of `drivedb.h` in smartmontools
 
-**Organization:** Ceph
+**Organization:** Ceph (IBM)
 
 **Contributor:** Anusha Singh
 

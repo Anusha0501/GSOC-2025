@@ -2,8 +2,6 @@
 
 **Organization:** Ceph (Smartmontools Project)
 **Contributor:** Anusha Singh (GSoC 2025 Student)
-**Mentors:** \[Mentor Names if you want to add]
-**Project Link:** Google Summer of Code 2025
 
 ---
 

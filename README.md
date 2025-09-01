@@ -106,7 +106,7 @@ The project was executed in two phases:
 
 ## 🔗 References
 
-* Upstream PR discussion(WIP): [smartmontools PR #378](https://github.com/smartmontools/smartmontools/pull/378)
+* Upstream PR discussion (WIP): [smartmontools PR #378](https://github.com/smartmontools/smartmontools/pull/378)
 * Project idea: Ceph GSoC 2025 – Smartmontools Enhancements
 
 ---
@@ -115,4 +115,3 @@ The project was executed in two phases:
 
 Huge thanks to my mentors and the Ceph community for their continuous guidance, reviews, and technical support.
 
----
